@@ -1,0 +1,40 @@
+Questionário Perfil de Usuário:
+
+1- 22 anos
+
+2- Masculino
+
+3- Não 
+
+4- 9
+
+5- Não
+
+6- Nunca utilizou
+
+7- Nunca utilizou
+
+Pós Teste:
+
+1- No Airbnb sentiu falta dos filtros de avaliações, por idioma e filtros em geral. Achou que os dois
+sistemas poderiam perguntar para qual linguagem o usuário quer traduzir, ao invés de usar a padrão do sistema
+
+2- Achou que é útil, principalmente pra ver avaliações das pessoas nativas do local desejado
+
+3- Sim
+
+4- Preferiu o Airbnb, por achar o processo de pesquisa mais simples e fácil, disse que o Airbnb guia o usuário de
+melhor maneira.
+
+Etiquetas:
+
+    Airbnb
+    1 - Ué, o que houve? - Se confundiu com a tela de escolher datas, não entendeu o propósito da seleção de meses
+    e escolheu dois meses diferentes de entrada na acomodação .
+
+    2 - Por que não funciona? - Esperava que na tela de seleção de mês apenas um mês poderia ser selecionado, mas não
+    foi o caso.
+
+    Booking.com
+    1 - Epa! - Na tela de seleção do período de estadia, tentou selecionar um tempo de estadia maior
+    que o limite máximo de 30 dias do Booking.

@@ -1,0 +1,46 @@
+Questionário Perfil de Usuário:
+
+1- Qual a sua idade?
+
+2- Qual gênero você se identifica?
+
+3- Possui alguma necessidade especial? Se sim, quais? 
+
+4- Qual seu nível de afinidade com tecnologia? (0-10) 
+
+5- Você já utilizou algum sistema de acomodação e busca de hotéis? Se sim, qual (quais)?
+
+6- Se sim, utilizou de quais meios? (Website pelo computador, Aplicativo de celular, Website pelo celular)
+
+7- Você usa sites de acomodação e busca de hotéis com frequência? 
+
+
+Teste:
+	
+O usuário deve procurar uma acomodação em Paris
+O usuário deve achar um comentário na sua língua nativa.
+O usuário deve achar um comentário em Francês, um em Espanhol e um em Inglês e traduzi-los para a sua compreensão. O usuário pode retornar a tela de seleção de acomodações para buscar novos locais, caso não tenha encontrado um comentário em Francês.
+
+
+Pós Teste:
+
+1- Você sentiu falta de algum recurso ou funcionalidade durante o uso desse(s) sistema(s) ?
+
+2- Você acha importante a funcionalidade de busca de comentários em idiomas específicos? 
+
+3- Você teve uma experiência positiva utilizando os sistemas apresentados?
+
+4- Qual das duas interfaces te agradou mais? Quais foram as principais diferenças?
+
+Etiquetas:
+
+    AirBnb
+    1 - 
+    2 - 
+    ...
+
+    Booking.com - Nome
+    1 - 
+    2 - 
+    3 - 
+    ...

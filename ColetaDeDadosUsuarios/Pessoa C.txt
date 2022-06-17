@@ -1,0 +1,41 @@
+Questionário Perfil de Usuário:
+
+1- 49 anos
+
+2- Feminino
+
+3- Não 
+
+4- 5 
+
+5- Não
+
+6- Nunca utilizou
+
+7- Nunca utilizou 
+
+Pós Teste:
+
+1- Sentiu falta de filtros de idioma e filtros em geral no AirBnb
+
+2- Sim, pois assim qualquer pessoa consegue utilizar as avaliações para ajudar em escolher a acomodação, e a função
+de tradução permite descobrir o que uma pessoa de outro país achou da acomodação.
+
+3- Sim
+
+4- Gostou mais do Booking. Achou que os filtros do Booking nas avaliações ajudam bastante a não se perder no que está procurando e visualizar
+como pesquisar o que se quer mais facilmente.
+
+Etiquetas:
+
+	Airbnb
+	1 - Epa! - Quando tentou clicar em avançar, acidentalmente abriu uma aba de opções e cliclou em "meu perfil"
+	2 - Cadê? - Tentando sair do menu de "meu perfil" e voltar a pesquisa, abriu varias abas da interface 
+	3 - Ué, o que houve? - Ainda tentando sair do menu de meu perfil, tentou o gesto de swipe para a direita
+	4 - Ué, o que houve? - Conseguiu sair do menu de meu perfil, e voltou a pesquisa, mas não percebeu que a pesquisa estava pronta, e a refez
+	5 - Porque não funciona - Enquanto refazia a pesquisa, cliclou na lupa para executar a ação de pesquisar duas vezes, e depois achou o botão de avançar
+
+	Booking.com - Nome
+	1 - Cadê - Durante a busca de reviews, procurou alguma funcionalidade que tinha no outro App
+	2 - Porque Não Funciona? - Buscando traduzir as reviews, queria traduzir uma resposta a uma review (funcionalidade indisponivel)
+

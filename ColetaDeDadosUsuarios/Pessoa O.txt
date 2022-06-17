@@ -1,0 +1,40 @@
+Questionário Perfil de Usuário:
+
+1- 50 anos
+
+2- Masculino
+
+3- Não
+
+4- 7 
+
+5- Não
+
+6- Nunca utilizou
+
+7- Nunca utilizou 
+
+Pós Teste:
+
+1- Queria achar os comentários do Booking mais facilmente
+
+2- Sim 
+
+3- Apenas no Airbnb, se confundiu bastante com o Booking, se sentiu perdido e disse que "não foi amigável".
+
+4- Preferiu muito mais o Airbnb, por ser mais simples e mostrar uma visualização mais útil ao usuário, guiar mais o 
+usuário durante a pesquisa por acomodação.
+
+Etiquetas:
+
+    Airbnb
+    1 - Cadê? - Não consegue achar o botão de "Ver todos os comentários"
+    2 - Para mim está bom... - Achou que a descrição feita pelo host era uma review de usuário
+    3 - Cadê? - Ainda não achou o botão "Ver todos os comentários", abriu varias telas procurando
+
+    Booking.com
+    1 - Cadê? - Ficou procurando como entrar na tela de avaliações de usuário
+    2 - Onde Estou? - Enquanto procurava um caminho para a tela de avaliações, encontrou um campo de sugestões ao anfitrião e escreveu "avaliação"
+    3 - Socorro - Escrever "avalição" no campo de sugestões foi uma tentativa de utilizar o sistema de ajuda do Booking
+    4 - Onde estou? - Procurando uma avaliação em frances, tenta utilizar o botão "pesquisar por assuntos" como meio de filtro de idioma.
+    5 - Para mim está bom... - Achou que como a pesquisa por assuntos não retornou resultado para frances, que não existiam avaliações em frances

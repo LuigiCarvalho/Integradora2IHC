@@ -1,0 +1,36 @@
+Questionário Perfil de Usuário:
+
+1- 24 anos
+
+2- Masculino
+
+3- Não
+
+4- 10
+
+5- Não
+
+6- Nunca utilizou
+
+7- Nunca utilizou
+
+Pós Teste:
+
+1- Você sentiu falta de algum recurso ou funcionalidade durante o uso desse(s) sistema(s) ?
+
+2- Você acha importante a funcionalidade de busca de comentários em idiomas específicos? 
+
+3- Você teve uma experiência positiva utilizando os sistemas apresentados?
+
+4- Qual das duas interfaces te agradou mais? Quais foram as principais diferenças?
+
+Etiquetas:
+
+    Airbnb
+    1 - Ué, o que houve? - Seleciona uma opção de busca por região sem entender o objetivo e 
+    acaba pesquisando através da barra de pesquisa convencional.
+
+    Booking.com
+    1 - Ué, o que houve? - Tenta acessar a tela de reviews multiplas vezes clicando
+    no simbolo de três estrelas. Havia um signo análogo no AirBnb que levava a
+    página de avaliações.
